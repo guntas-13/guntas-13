@@ -11,10 +11,9 @@ I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technol
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=guntas-13&theme=default&show_icons=true" />
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=ML_Scratch)](https://github.com/guntas-13/ML_Scratch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=NextCharacterPredictor)](https://github.com/guntas-13/NextCharacterPredictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=CS328-SparseCommunityDetection)](https://github.com/guntas-13/CS328-SparseCommunityDetection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=SFML_Games)](https://github.com/guntas-13/SFML_Games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=MA203_Convection-Diffusion_Equation)](https://github.com/guntas-13/MA203_Convection-Diffusion_Equation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=guntas-13.github.io)](https://github.com/guntas-13/guntas-13.github.io)
 </div>
 
