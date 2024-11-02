@@ -3,6 +3,7 @@
 
 I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges. 
 
+- 💻 I'll be joining as an upcoming **Data Science Intern** @ **[Skan.ai](https://www.skan.ai/)** in the summer of 2025.
 - 🌱 I worked as a Research Intern at CVIG Lab, IIT Gandhinagar, under Prof. Shanmuganathan Raman during the summer of 2024. Meanwhile, I'm exploring several domains ranging from Data Science, Computer Vision, Computer Organization, and Architecture to Applied Machine Learning and Software Development.
 - 📫 Reach out me at guntassingh.saran@iitgn.ac.in or visit [my website](https://guntas-13.github.io) or explore my [blog](https://guntas-13.github.io/Blog), or text me at **+91 73409 64064**.
 
