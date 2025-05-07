@@ -3,19 +3,19 @@
 
 I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges. 
 
-- 💻 I'll be joining as an upcoming **Data Science Intern** @ **[Skan.ai](https://www.skan.ai/)** in the summer of 2025.
-- 🌱 I worked as a Research Intern at CVIG Lab, IIT Gandhinagar, under Prof. Shanmuganathan Raman during the summer of 2024. Meanwhile, I'm exploring several domains ranging from Data Science, Computer Vision, Computer Organization, and Architecture to Applied Machine Learning and Software Development.
+- 💻 I'm currently working as a **Data Science Intern** @ **[Skan AI](https://www.skan.ai/)** in the summer of 2025.
+- 📟 Check out the compiler we have built for our unambiguous language - **[osl.](https://guntas-13.github.io/osl.docs/)**
+- 🌱 I worked as a Research Intern at CVIG Lab, IIT Gandhinagar, under Prof. Shanmuganathan Raman during the summer of 2024. Meanwhile, I'm exploring several domains ranging from Data Science, Computer Vision, Computer Organization, and Architecture, Systems to Applied Machine Learning and Software Development.
 - 📫 Reach out me at guntassingh.saran@iitgn.ac.in or visit [my website](https://guntas-13.github.io) or explore my [blog](https://guntas-13.github.io/Blog), or text me at **+91 73409 64064**.
 
 
 ## Git Repositories
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=guntas-13&theme=default&show_icons=true" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=NextCharacterPredictor)](https://github.com/guntas-13/NextCharacterPredictor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=CS328-SparseCommunityDetection)](https://github.com/guntas-13/CS328-SparseCommunityDetection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=SFML_Games)](https://github.com/guntas-13/SFML_Games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=guntas-13.github.io)](https://github.com/guntas-13/guntas-13.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=dns-stub-af_xdp)](https://github.com/guntas-13/dns-stub-af_xdp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=mips-processor-basys3)](https://github.com/guntas-13/mips-processor-basys3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=CS327-Compilers)](https://github.com/guntas-13/CS327-Compilers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mshandilya&repo=osl.)](https://github.com/mshandilya/osl.)
 </div>
 
 <h2 align="center">Languages, Platforms, Dependencies</h2>
@@ -24,6 +24,7 @@ I am a **Junior Undergraduate** at the prestigious **Indian Institute of Technol
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
