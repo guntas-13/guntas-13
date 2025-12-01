@@ -9,15 +9,6 @@ I am a **Senior Undergraduate** at the prestigious **Indian Institute of Technol
 - 📫 Reach out me at guntassingh.saran@iitgn.ac.in or visit [my website](https://guntas-13.github.io) or explore my [blog](https://guntas-13.github.io/Blog), or text me at **+91 73409 64064**.
 
 
-## Git Repositories
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=dns-stub-af_xdp)](https://github.com/guntas-13/dns-stub-af_xdp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=mips-processor-basys3)](https://github.com/guntas-13/mips-processor-basys3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guntas-13&repo=CS327-Compilers)](https://github.com/guntas-13/CS327-Compilers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mshandilya&repo=osl.)](https://github.com/mshandilya/osl.)
-</div>
-
 <h2 align="center">Languages, Platforms, Dependencies</h2>
 <p>
 <div align="center">
