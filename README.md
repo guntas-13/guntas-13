@@ -4,9 +4,10 @@
 I am a **Senior Undergraduate** at the prestigious **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges. 
 
 - 💻 I'm currently working as a **Data Science Intern** @ **[Skan AI](https://www.skan.ai/)**.
+- 📚 I attended The Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (**[CMMRS 2025](https://cmmrs.mpi-sws.org/)**) at the Max Planck Institute for Software Systems (MPI-SWS), Saarbrücken, Germany from 28 July - 3 Aug 2025, being one amongst the five Indian students selected for the programme.
 - 📟 Check out the compiler we have built for our unambiguous language - **[osl.](https://guntas-13.github.io/osl.docs/)**
 - 🌱 I worked as a Research Intern at CVIG Lab, IIT Gandhinagar, under Prof. Shanmuganathan Raman during the summer of 2024. Meanwhile, I'm exploring several domains ranging from Data Science, Computer Vision, Computer Organization and Architecture, Systems to Applied Machine Learning and Software Development.
-- 📫 Reach out me at guntassingh.saran@iitgn.ac.in or visit [my website](https://guntas-13.github.io) or explore my [blog](https://guntas-13.github.io/Blog), or text me at **+91 73409 64064**.
+- 📫 Reach out me at **guntassingh.saran@iitgn.ac.in** or visit **[my website](https://guntas-13.github.io)** or explore my **[blog](https://guntas-13.github.io/Blog)**, or text me at **+91 73409 64064**.
 
 
 <h2 align="center">Languages, Platforms, Dependencies</h2>
