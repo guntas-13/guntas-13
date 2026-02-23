@@ -3,29 +3,44 @@
 
 I am a **Senior Undergraduate** at the prestigious **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges. 
 
-- 💻 I'm currently working as a **Data Science Intern** @ **[Skan AI](https://www.skan.ai/)**.
+- 💻 I'm currently working as a **Data Science Intern** and will soon be joining full-time as **Data Scientist I** @ **[Skan AI](https://www.skan.ai/)**.
 - 📚 I attended The Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (**[CMMRS 2025](https://cmmrs.mpi-sws.org/)**) at the Max Planck Institute for Software Systems (MPI-SWS), Saarbrücken, Germany from 28 July - 3 Aug 2025, being one amongst the five Indian students selected for the programme.
 - 📟 Check out the compiler we have built for our unambiguous language - **[osl.](https://guntas-13.github.io/osl.docs/)**
-- 🌱 I worked as a Research Intern at CVIG Lab, IIT Gandhinagar, under Prof. Shanmuganathan Raman during the summer of 2024. Meanwhile, I'm exploring several domains ranging from Data Science, Computer Vision, Computer Organization and Architecture, Systems to Applied Machine Learning and Software Development.
+- 🌱 I worked as a Research Intern at CVIG Lab, IIT Gandhinagar, under Prof. Shanmuganathan Raman during the summer of 2024. Meanwhile, I'm exploring several domains ranging from Data Science, Computer Vision, Computer Organization and Architecture, Systems, Distributed Systems to Applied Machine Learning and Software Development.
 - 📫 Reach out me at **guntassingh.saran@iitgn.ac.in** or visit **[my website](https://guntas-13.github.io)** or explore my **[blog](https://guntas-13.github.io/Blog)**, or text me at **+91 73409 64064**.
 
 
-<h2 align="center">Languages, Platforms, Dependencies</h2>
+<h2 align="center">Stack</h2>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 </div>
 </p>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+</p>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+</p>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white">
+  <img src="https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F">
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 </div>
 </p>
 
