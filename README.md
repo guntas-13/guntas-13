@@ -1,9 +1,9 @@
 <h1 align="center">Hi!👋, This is Guntas Saran</h1>
 <!-- <h2 align="center">Sophomore, IIT Gandhinagar</h2> -->
 
-I am a **Senior Undergraduate** at the prestigious **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges. 
+I am a **Data Scientist I** at **Skan AI**. I graduated with a B.Tech (Honours) in **Computer Science and Engineering** from the **Indian Institute of Technology (IIT) Gandhinagar** in June 2026. I've always been fascinated by the role of Mathematics in uncovering the intricacies of computing and its ability to solve complex problems. I'm open to working on projects that leverage the synergy between Computing and Mathematics to address real-world challenges. 
 
-- 💻 I'm currently working as a **Data Science Intern** and will soon be joining full-time as **Data Scientist I** @ **[Skan AI](https://www.skan.ai/)**.
+- 💻 I'm currently working full-time as **Data Scientist I** @ **[Skan AI](https://www.skan.ai/)**.
 - 📚 I attended The Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (**[CMMRS 2025](https://cmmrs.mpi-sws.org/)**) at the Max Planck Institute for Software Systems (MPI-SWS), Saarbrücken, Germany from 28 July - 3 Aug 2025, being one amongst the five Indian students selected for the programme.
 - 📟 Check out the compiler we have built for our unambiguous language - **[osl.](https://guntas-13.github.io/osl.docs/)**
 - 🌱 I worked as a Research Intern at CVIG Lab, IIT Gandhinagar, under Prof. Shanmuganathan Raman during the summer of 2024. Meanwhile, I'm exploring several domains ranging from Data Science, Computer Vision, Computer Organization and Architecture, Systems, Distributed Systems to Applied Machine Learning and Software Development.
